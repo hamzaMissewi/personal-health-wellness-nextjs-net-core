@@ -5,7 +5,6 @@ D:\projects\_dev-v0-todo\personal-health-wellness-nextjs-net-core\backend\Health
 D:\projects\_dev-v0-todo\personal-health-wellness-nextjs-net-core\backend\HealthWellnessAPI\obj\Debug\net8.0\HealthWellnessAPI.csproj.CoreCompileInputs.cache
 D:\projects\_dev-v0-todo\personal-health-wellness-nextjs-net-core\backend\HealthWellnessAPI\obj\Debug\net8.0\HealthWellnessAPI.MvcApplicationPartsAssemblyInfo.cs
 D:\projects\_dev-v0-todo\personal-health-wellness-nextjs-net-core\backend\HealthWellnessAPI\obj\Debug\net8.0\HealthWellnessAPI.MvcApplicationPartsAssemblyInfo.cache
-D:\projects\_dev-v0-todo\personal-health-wellness-nextjs-net-core\backend\HealthWellnessAPI\bin\Debug\net8.0\appsettings.Development.json
 D:\projects\_dev-v0-todo\personal-health-wellness-nextjs-net-core\backend\HealthWellnessAPI\bin\Debug\net8.0\appsettings.json
 D:\projects\_dev-v0-todo\personal-health-wellness-nextjs-net-core\backend\HealthWellnessAPI\bin\Debug\net8.0\HealthWellnessAPI.staticwebassets.endpoints.json
 D:\projects\_dev-v0-todo\personal-health-wellness-nextjs-net-core\backend\HealthWellnessAPI\bin\Debug\net8.0\HealthWellnessAPI.exe
@@ -157,3 +156,5 @@ D:\projects\_dev-v0-todo\personal-health-wellness-nextjs-net-core\backend\Health
 D:\projects\_dev-v0-todo\personal-health-wellness-nextjs-net-core\backend\HealthWellnessAPI\obj\Debug\net8.0\HealthWellnessAPI.pdb
 D:\projects\_dev-v0-todo\personal-health-wellness-nextjs-net-core\backend\HealthWellnessAPI\obj\Debug\net8.0\HealthWellnessAPI.genruntimeconfig.cache
 D:\projects\_dev-v0-todo\personal-health-wellness-nextjs-net-core\backend\HealthWellnessAPI\obj\Debug\net8.0\ref\HealthWellnessAPI.dll
+D:\projects\_dev-v0-todo\personal-health-wellness-nextjs-net-core\backend\HealthWellnessAPI\obj\Debug\net8.0\HealthWellnessAPI.sourcelink.json
+D:\projects\_dev-v0-todo\personal-health-wellness-nextjs-net-core\backend\HealthWellnessAPI\bin\Debug\net8.0\ignore\appsettings.Development.json

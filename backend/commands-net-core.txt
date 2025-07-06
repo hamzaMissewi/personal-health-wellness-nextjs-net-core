@@ -2,7 +2,22 @@ cd backend/HealthWellnessAPI
 dotnet restore
 dotnet run
 
+dotnet run
+
+dotnet build
+
+
 dotnet new webapp -o core2-app
 
 
 dotnet new webapp -o backend/HealthWellnessAPI
+
+dotnet --info
+dotnet --version
+
+
+curl -X GET "http://localhost:5000/api/health/metrics/test-user" -H "accept: application/json"
+
+tasklist | findstr HealthWellnessAPI
+
+dotnet run
