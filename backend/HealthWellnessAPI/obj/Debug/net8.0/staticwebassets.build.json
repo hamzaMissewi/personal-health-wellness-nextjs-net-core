@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JzPLJJ6otORBdBBhfFLTj8y92ll+PWizceIJ+dScRHQ=",
+  "Source": "HealthWellnessAPI",
+  "BasePath": "_content/HealthWellnessAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

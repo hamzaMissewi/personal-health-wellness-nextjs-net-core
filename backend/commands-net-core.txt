@@ -1,0 +1,8 @@
+cd backend/HealthWellnessAPI
+dotnet restore
+dotnet run
+
+dotnet new webapp -o core2-app
+
+
+dotnet new webapp -o backend/HealthWellnessAPI
